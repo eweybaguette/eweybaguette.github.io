@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Introduction to EWEY
-author: sal
+author: Xinn
 categories:
   - Jekyll
   - tutorial
-image: assets/images/16.jpg
+image: assets/images/eweylogo.png
 published: true
 ---
 # Introduction to EWEY.. made for ewe and me
